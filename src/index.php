@@ -22,7 +22,7 @@
     <form action="./" method="POST">
         <label for="number">Input a number</label>
         <input type="number" name="number" id="number">
-        <button type="submit">Compute</button>
+        <button type="submit" style="color: red;">Compute</button>
     </form>
 </body>
 </html>
