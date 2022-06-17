@@ -18,6 +18,7 @@
     <title>N+1 Theory</title>
 </head>
 <body>
+    <h1>sdadfafafd</h1>
     <form action="./" method="POST">
         <label for="number">Input a number</label>
         <input type="number" name="number" id="number">
